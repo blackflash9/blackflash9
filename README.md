@@ -1,31 +1,40 @@
-# 👋 Hi, I’m Almando Douglas
+# Hi, I'm Almando Douglas 🇯🇲 -> 🇬🇧
 
-### AI Engineer | Music Producer | Systems Architect
-
-I am a technical builder focused on bridging the gap between complex operations and AI-driven efficiency. With a professional background rooted in high-stakes international production and systems management, I now develop AI tools that solve real-world logistical and auditing challenges.
-
----
-
-## 🛠️ Technical Focus
-- **AI Engineering:** Building automated auditing systems and LLM-driven business tools.
-- **Data Engineering:** High-performance log parsing, data cleaning, and anomaly detection.
-- **Python Ecosystem:** Advanced scripting with Pandas, Scikit-Learn, and automation workflows.
-- **Hardware:** Optimizing ML workloads on high-performance computing environments.
-
-## 📁 Featured Project: [AI Auditor](link-to-your-repo)
-An automated compliance engine designed for the logistics industry. It uses pattern recognition to parse raw system logs, verify business-hour compliance, and flag unauthorized operational anomalies.
-
-## 🌟 Professional Discipline
-Before transitioning into AI Engineering, I spent over a decade as a professional guitarist and music producer, earning a **Grammy Award** and **three nominations**. That career taught me the value of technical precision, rapid problem-solving, and the importance of high-output collaboration—traits I bring to every codebase I write today.
+### AI Engineer & Founding-Mindset Builder 
+Currently architecting autonomous agents for global logistics and supply chain optimization. Moving to London, May 2026.
 
 ---
 
-## 📈 Tools & Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## 🛠️ The Axe-Aligned Stack
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_my_network-secondary_nav)
-- 🌐 [Portfolio/Mundo Don Music](https://open.spotify.com/playlist/09aNaM8YiryaQIpnqEyEX5?si=AZw2u_N3TEa-qy0Ylz70lA&pi=LnZV3saXQ22b2)
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Backend & AI** | **Python (FastAPI)**, PostgreSQL, **LangGraph**, OpenAI, Google VertexAI |
+| **Frontend** | **TypeScript**, **React**, Next.js, Tailwind CSS |
+| **Infrastructure** | **AWS**, Docker, GitHub Codespaces (Mobile-First Workflow) |
+| **AI Workflows** | RAG (Retrieval-Augmented Generation), Voice/Telephony Agents, Tool-Use |
+| **Productivity** | Cursor, Claude Code, MCP (Model Context Protocol) |
+
+---
+
+## 🚀 Featured Project: AI Logistics Auditor
+**Status:** Active Development (Founding Engineer Prototype)
+* **Problem:** Manual trade documentation and customs compliance in the trillion-dollar logistics industry.
+* **Solution:** An autonomous agent system that audits shipping manifests and regulatory filings using a custom RAG pipeline.
+* **Tech:** Python, Relevance AI, Replit, and GitHub-native automation.
+
+---
+
+## 🏆 Beyond the Code
+* **One-time Grammy Winner** (Guitarist on *Blxxd and Fyah*) & **3x Nominee**.
+* **Founding Leadership:** CEO of Mundo Don Music; expert at leading cross-functional teams in high-pressure global environments (US "Good Vibes" Tour MD).
+* **Visa Status:** Eligible for **UK Global Talent Visa (Arts & Culture)**; relocation to London confirmed for May 2026.
+
+---
+
+## 📬 Connect with Me
+- 🔭 **Working on:** Scaling AI Agents for the physical economy.
+- 💬 **Ask me about:** Logistics automation, Python optimization, or Reggae production.
+- 📧 **Email:** [almando.douglas@gmail.com](mailto:almando.douglas@gmail.com)
+- 🔗 **LinkedIn:** [Almando Douglas](https://www.linkedin.com/in/almando-douglas-1ba389226)
+- ⚡ **Fun Fact:** I manage my entire dev workflow and music business directly from my smartphone.
