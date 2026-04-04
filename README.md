@@ -1,6 +1,6 @@
 # Hi, I'm Almando Douglas 🇯🇲 -> 🇬🇧
 
-### AI Engineer & Founding-Mindset Builder 
+### Grammy Winning Musican | AI Engineer & Founding-Mindset Builder 
 Currently architecting autonomous agents for global logistics and supply chain optimization. 
 
 ---
