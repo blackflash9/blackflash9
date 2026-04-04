@@ -1,7 +1,7 @@
 # Hi, I'm Almando Douglas 🇯🇲 -> 🇬🇧
 
 ### AI Engineer & Founding-Mindset Builder 
-Currently architecting autonomous agents for global logistics and supply chain optimization. Moving to London, May 2026.
+Currently architecting autonomous agents for global logistics and supply chain optimization. 
 
 ---
 
