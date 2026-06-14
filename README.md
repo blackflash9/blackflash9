@@ -1,4 +1,4 @@
-# Hi, I'm Almando Douglas 🇯🇲 -> 🇬🇧
+# Hi, I'm Almando Douglas 🇯🇲 
 
 ### Grammy-Winning Producer | AI Engineer & Founding-Mindset Builder 
 Currently architecting autonomous agents for global logistics and supply chain optimization. 
@@ -28,7 +28,7 @@ Currently architecting autonomous agents for global logistics and supply chain o
 ## 🏆 Beyond the Code
 * **One-time Grammy Winner** (Guitarist on *Blxxd and Fyah*) & **3x Nominee**.
 * **Founding Leadership:** CEO of Mundo Don Music; expert at leading cross-functional teams in high-pressure global environments (US "Good Vibes" Tour MD).
-* **Visa Status:** Eligible for **UK Global Talent Visa (Arts & Culture)**; relocation to London confirmed for May 2026.
+* **Visa Status:** Eligible for **UK Global Talent Visa (Arts & Culture)**; 
 
 ---
 
